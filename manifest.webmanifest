@@ -1,0 +1,17 @@
+{
+  "name": "Telugu Bible — తెలుగు బైబిల్",
+  "short_name": "Telugu Bible",
+  "description": "Offline Telugu Bible with themes, verse links, notes and search",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf6ef",
+  "theme_color": "#9c2b2b",
+  "lang": "te",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
